@@ -1,4 +1,4 @@
-#!/usr/bin/env sh
+#!/bin/sh
 
 replica_runner()
 {
